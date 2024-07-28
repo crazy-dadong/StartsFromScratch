@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartsFromScratch", "Source\StartsFromScratch\StartsFromScratch.csproj", "{18C359C3-D273-44EA-A4FD-F0E0E8C97BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18C359C3-D273-44EA-A4FD-F0E0E8C97BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C359C3-D273-44EA-A4FD-F0E0E8C97BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C359C3-D273-44EA-A4FD-F0E0E8C97BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C359C3-D273-44EA-A4FD-F0E0E8C97BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

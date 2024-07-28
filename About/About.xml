@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>CrazyDadong.StartsFromScratch</packageId>
+    <name>Starts From Scratch</name>
+    <authors>
+        <li>crazy-dadong</li>
+    </authors>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+            <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+
+    <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>brrainz.harmony</li>
+    </loadAfter>
+
+    <description>
+从零开始研究
+在新游戏开始时，所有的科技和蓝图都会被遗忘，这可以显著增加游戏时间。配合“研究很困难”mod，体验会更佳。
+
+使用指南：
+需要在新游戏开始前启用此Mod，中途加入无效。如果你想在游戏中遗忘已完成的科技和获得的蓝图，可以在开发者模式中执行相应的命令。
+
+Starting Research from Scratch
+When starting a new game, all technologies and blueprints will be forgotten, significantly extending game time. The experience is even better when combined with the "Hard Research" mod.
+
+Usage:
+This Mod needs to be enabled before starting a new game; it won't take effect if added mid-game. If you want to forget completed technologies and obtained blueprints during the game, you can execute the corresponding command in developer mode.
+    </description>
+</ModMetaData>
